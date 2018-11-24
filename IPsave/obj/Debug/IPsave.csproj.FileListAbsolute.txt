@@ -1,0 +1,10 @@
+C:\Users\Sage\Documents\Visual Studio 2017\Projects\IPsave\IPsave\bin\Debug\IPsave.exe.config
+C:\Users\Sage\Documents\Visual Studio 2017\Projects\IPsave\IPsave\bin\Debug\IPsave.exe
+C:\Users\Sage\Documents\Visual Studio 2017\Projects\IPsave\IPsave\bin\Debug\IPsave.pdb
+C:\Users\Sage\Documents\Visual Studio 2017\Projects\IPsave\IPsave\obj\Debug\IPsave.csprojAssemblyReference.cache
+C:\Users\Sage\Documents\Visual Studio 2017\Projects\IPsave\IPsave\obj\Debug\IPsave.Form1.resources
+C:\Users\Sage\Documents\Visual Studio 2017\Projects\IPsave\IPsave\obj\Debug\IPsave.Properties.Resources.resources
+C:\Users\Sage\Documents\Visual Studio 2017\Projects\IPsave\IPsave\obj\Debug\IPsave.csproj.GenerateResource.cache
+C:\Users\Sage\Documents\Visual Studio 2017\Projects\IPsave\IPsave\obj\Debug\IPsave.csproj.CoreCompileInputs.cache
+C:\Users\Sage\Documents\Visual Studio 2017\Projects\IPsave\IPsave\obj\Debug\IPsave.exe
+C:\Users\Sage\Documents\Visual Studio 2017\Projects\IPsave\IPsave\obj\Debug\IPsave.pdb
